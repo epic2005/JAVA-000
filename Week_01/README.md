@@ -274,9 +274,9 @@ public class HelloClassLoader extends ClassLoader {
 
 ### 内存模型及相应参数对应图
 
-![内存模型](./memory.png)
+![内存模型](待补全)
 
-## 作业四、五（一起做了）
+## 作业四、五
 ### 作业要求 
 &ensp;&ensp;&ensp;&ensp;作业4：检查一下自己维护的业务系统的JVM参数配置，用jstat和jstack、jmap查看一下详情，并且自己独立分析一下大概情况，思考有没有不合理的地方，如何改进。
 
